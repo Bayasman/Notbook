@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWKRgYNhaDcTCpbfO9oakc4M+opq0H4Z+KB2Rz1ugZ15o/IDDc0n5EWTK9mIePLMFDuY5gjP5Q41DecUJOd8oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kudaj\\source\\repos\\NoteBook\\NoteBook\\NoteBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kudaj\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
